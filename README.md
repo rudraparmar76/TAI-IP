@@ -6,7 +6,7 @@ Welcome to the repository for my exciting internship at Tech-A-Intern! 🚀 Thro
 
 I embarked on the journey by crafting a captivating portfolio website using HTML, CSS, and JavaScript. The portfolio serves as a digital canvas to showcase my skills and achievements. With a modern and minimalist design, it reflects my growth as a web developer and designer during this internship.
 
-![Portfolio Screenshot]()
+![Portfolio Screenshot](https://github.com/rudraparmar76/TAIRP/blob/main/screenshots/portfolio.png)
 
 ## 2. Carousel 🌅🎠
 
