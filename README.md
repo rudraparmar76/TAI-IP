@@ -12,13 +12,13 @@ I embarked on the journey by crafting a captivating portfolio website using HTML
 
 The dynamic image carousel project was an exhilarating challenge where I brought interactivity to life using HTML, CSS, and JavaScript. This carousel smoothly transitions between images, adding an engaging visual element to webpages. This endeavor honed my JavaScript skills and provided valuable insights into creating interactive components.
 
-![Carousel Screenshot](screenshots/carousel-screenshot.png)
+![Carousel Screenshot](https://github.com/rudraparmar76/TAIRP/blob/main/screenshots/Carousel.png)
 
 ## 3. Single Page Recipe 🍔📃
 
 Creating a single-page recipe website was a delightful task that allowed me to marry design and development. With HTML and CSS, I crafted a seamless layout for a recipe page. Users can access all necessary information without cumbersome navigation. This project emphasized user-centered design and efficient content presentation.
 
-![Recipe Page Screenshot](screenshots/recipe-page-screenshot.png)
+![Recipe Page Screenshot](https://github.com/rudraparmar76/TAIRP/blob/main/screenshots/Recipe.png)
 
 ## Usage 🛠️👩‍💻
 
@@ -34,4 +34,4 @@ I extend my heartfelt gratitude to the Tech-A-Intern team for offering me this i
 
 ## Connect 📬🤝
 
-Have questions, suggestions, or simply want to connect? Feel free to reach out to me at [your@email.com](mailto:your@email.com). Let's embark on a journey of continued learning and innovation together! 🌟🚀
+Have questions, suggestions, or simply want to connect? Feel free to reach out to me at [rudraparmar1309@gmail.com](mailto:rudraparmar1309@gmail.com). Let's embark on a journey of continued learning and innovation together! 🌟🚀
