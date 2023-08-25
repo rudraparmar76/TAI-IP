@@ -1,0 +1,38 @@
+* {
+	text-align: center;
+	justify-content: center;
+}
+/*size of each image*/
+.image-gallery img,
+.carousel {
+	width: 450px;
+	height: 300px;
+	/* justify-content: center;
+    display: flex; */
+}
+.carousel {
+	overflow: hidden; /*Preventing slider from sticking out*/
+	margin: 0 auto;
+}
+/*Size of gallery with animation*/
+.image-gallery {
+	width: 1800px;
+	-webkit-transition: all 1s ease-in-out; /*All webkit based*/
+	-moz-transition: all 1s ease-in-out; /*mozilla based*/
+	-o-transition: all 1s ease-in-out; /*Opera based*/
+	transition: all 1s ease-in-out;
+}
+/* .icon-img {
+	width: 50px;
+	mix-blend-mode: multiply;
+} */
+button {
+	margin: 10px;
+	border: 0;
+    background-color:white;
+    mix-blend-mode: multiply;
+}
+img{
+	width: 50px;
+	mix-blend-mode: multiply;
+}
